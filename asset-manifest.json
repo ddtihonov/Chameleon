@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Chameleon/static/css/main.e8fd8966.css",
+    "main.js": "/Chameleon/static/js/main.af617294.js",
+    "static/js/787.cbb8b6e3.chunk.js": "/Chameleon/static/js/787.cbb8b6e3.chunk.js",
+    "static/media/puzzle.png": "/Chameleon/static/media/puzzle.d570b5aa0cf767c93a4f.png",
+    "index.html": "/Chameleon/index.html",
+    "main.e8fd8966.css.map": "/Chameleon/static/css/main.e8fd8966.css.map",
+    "main.af617294.js.map": "/Chameleon/static/js/main.af617294.js.map",
+    "787.cbb8b6e3.chunk.js.map": "/Chameleon/static/js/787.cbb8b6e3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8fd8966.css",
+    "static/js/main.af617294.js"
+  ]
+}
