@@ -2,7 +2,7 @@
   "name": "chameleon",
   "version": "0.1.0",
   "private": true,
-  "homepage": "",
+  "homepage": "https://ddtihonov.github.io/Chameleon/",
   "dependencies": {
     "react": "^17.0.0",
     "react-dnd": "^16.0.1",

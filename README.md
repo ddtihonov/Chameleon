@@ -1,7 +1,7 @@
 ### Проект: Сhameleon
 ---
 
-Ссылка на проект:
+Ссылка на проект: https://ddtihonov.github.io/Chameleon/
 
 ### О сайте:
 ---
